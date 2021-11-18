@@ -1,0 +1,2 @@
+# socicoin
+Sistema de blockchain
